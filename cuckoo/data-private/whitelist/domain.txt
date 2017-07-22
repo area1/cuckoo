@@ -25,3 +25,5 @@ dns.msftncsi.com
 ocsp.msocsp.com
 ocsp.omniroot.com
 crl.microsoft.com
+ctldl.windowsupdate.com
+ie9cvlist.ie.microsoft.com
